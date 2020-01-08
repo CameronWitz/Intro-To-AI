@@ -1,0 +1,36 @@
+Language detected: python
+Line 1 slope intercept results:
+m: -0.69 ([32mSUCCESS[0m)
+b: 404 ([32mSUCCESS[0m)
+
+Line 2 slope intercept results:
+m: -1.52 ([32mSUCCESS[0m)
+b: 554 ([32mSUCCESS[0m)
+
+Line 3 slope intercept results:
+m: 0.33 ([32mSUCCESS[0m)
+b: 31 ([32mSUCCESS[0m)
+
+Line 4 slope intercept results:
+m: 0.73 ([32mSUCCESS[0m)
+b: 28 ([32mSUCCESS[0m)
+
+Line 5 normal intercept results:
+theta: 0.0750491578358 ([32mSUCCESS[0m)
+r: 338 ([32mSUCCESS[0m)
+
+Line 6 normal intercept results:
+theta: 0.00349065850399 ([32mSUCCESS[0m)
+r: 555 ([32mSUCCESS[0m)
+
+Line 7 normal intercept results:
+theta: 3.12763001957 ([32mSUCCESS[0m)
+r: -125 ([32mSUCCESS[0m)
+
+Line 8 normal intercept results:
+theta: 0.0279252680319 ([32mSUCCESS[0m)
+r: 214 ([32mSUCCESS[0m)
+
+0 480
+broke
+Result: [0;31mLab tests failed[0;0m
